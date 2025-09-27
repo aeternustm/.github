@@ -1,11 +1,4 @@
-## Aeternus Team
-Somos um grupo de estudiosos, profissionais e pesquisadores que buscam armazenar conhecimento enquanto estudamos entre nós. Estudamos diversas áreas e temos qualificações e/ou experiência em habilidades distintas entre os membros.
-
-Nossos focos são:
-- Ciência;
-- Linguagens Antigas;
-- Blockchain, Segurança Ofensiva e Ciência da Computação;
-- Engenharia Mecânica/Elétrica;
-- Linguagens de Programação;
-
-Não recrutamos e nossos projetos são privados. Tudo o que abrimos ao público são projetos, pesquisas e anotações são casos especiais.
+# Equipe Aeternus
+Somos um grupo de estudos e pesquisas privado e com afiliação à [Alfheim](https://discord.gg/qTgfcN6ct7). Não recrutamos no momento, e nem somos um grupo aberto. Porém, você pode interagir com nossos membros diretamente pela comunidade da Alfheim.
+## Projetos
+A maioria dos nossos projetos são privados e não temos o interesse atual de alterar isso. Porém, alguns projetos podem ser postados para contribuir com a comunidade Alfheim; e também, planejamos postar conteúdos públicos para o idioma sumério clássico e o alfabeto cuneiforme. Nossos maiores interesses atuais são privados aos membros já envolvidos.
