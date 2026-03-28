@@ -1,7 +1,2 @@
-# Equipe Aeternus
-Somos um grupo focado em desenvolver pesquisas, softwares e projetos em conjunto. Nosso objetivo é criar um grupo ativo, onde cada membro é especializado (ou estuda para ser) em uma área - a qual desenvolverá em nossa biblioteca compartilhada, estudos e pesquisas voltadas para sua especialização. 
-
-## Biblioteca Scientia
-Nossa biblioteca é um projeto centrado, e atualmente fechado, para compartilhar conhecimento de forma livre e com rigor ciêntífico ou padronizado (dependendo da área). De física para rede neural, tudo é documentado em categorias separadas e organizadas para o uso posterior. O foco total deste projeto é mapear conhecimento sem censura, e conseguir traduzir futuramente conteúdos estrangeiros para fácil acesso.
-### Contato
-Atualmente, qualquer contato com a equipe Aeternus é fechado; pois ainda não abrimos nenhum protego para ser necessário.
+# Aeternus - Grupo Independente
+Somos um grupo de estudos e entusiastas por tecnologia e outras áreas. Alimentamos nossa biblioteca privada com conhecimento e estudos de diversas áreas em busca de criar e fornecer um ambiente livre de censuras ou julgamentos. Nosso grupo busca a especialização individual de seus interesses e também fornecer projetos exemplares, além de liberdade para pesquisas e estudos, com apoio de todos os membros.
